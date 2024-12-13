@@ -1,1 +1,0 @@
- export const selectAuthFailed = (state) => state.authUserFailed;
